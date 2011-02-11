@@ -1,0 +1,27 @@
+-- we shared what we had read in the various papers
+-- we decided to do a 'brief overview' format rather than a specific example
+-- the format of the report will be:
+ABSTRACT
+INTRODUCTION
+(rough overview subject to change:
+-what formal methods are
+-mathematical basis
+-assumptions that formal methods make
+-predicates etc
+-philosophy)
+USAGE OF FORMAL METHODS
+-mostly based on the survey Haegin wrote
+-ending with the link being people should be using them ...
+SO WHY AREN'T THEY?
+problem/rebuttal (organisational interaction, business culture, FM
+community cohesion, links between FM comm and industry, curricula in
+universities, technology/tools, expense both time and money)
+CONCLUSION
+
+jobs for this weekend:
+introduction -- George
+Usage of formal methods -- Harry
+Why aren't they used/rebuttal - Kate
+
+--we will next meet Monday 11.15 for two hours. Plan is collate and then
+to jointly write a conclusion.
